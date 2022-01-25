@@ -28,10 +28,10 @@ To install the library without full voice support, you can just run the followin
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install -U py-cord
+    python3 -m pip install -U discord-css
 
     # Windows
-    py -3 -m pip install -U py-cord
+    py -3 -m pip install -U discord-css
 
 Otherwise to get voice support you should run the following command:
 
